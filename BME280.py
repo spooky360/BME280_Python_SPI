@@ -224,7 +224,6 @@ def calibrate():
 #        t3 = (-t3 ^ 0xFFFF) + 1
 
 
-print("AYCAD")
 reset()
 time.sleep(2)
 setup()
